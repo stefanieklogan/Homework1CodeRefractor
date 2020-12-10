@@ -90,9 +90,9 @@ p {
     background-color: #2589bd;
 }
 
-/* Style the left panel margins and font color*/
+/* Style the right panel margins and font color*/
 .benefit-lead, .benefit-brand, .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 14px;
     color: #ffffff;
 }
 
