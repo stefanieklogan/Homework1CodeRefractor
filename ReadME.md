@@ -1,16 +1,16 @@
 Read me file for Horeison.com & CodeRefractor homework 1
 
 *** New semantic HTML elements ***
-> Replaced <div> with <nav> for header class content due to three page navigation links in header section
-> Replaced <div> <section> that combined .search-engine-optimization, .online-reputation-management, .social-media-marketing
-> Replaced <div> with <figure> where .benefit-lead img, .benefit-brand img, .benefit-cost img was concerned
+1 Replaced <div> with <nav> for header class content due to three page navigation links in header section
+2 Replaced <div> <section> that combined .search-engine-optimization, .online-reputation-management, .social-media-marketing
+3 Replaced <div> with <figure> where .benefit-lead img, .benefit-brand img, .benefit-cost img was concerned
 
 *** New accessibility standards ***
-> IMG elements have accessible alt tag attributes & descriptive text
-> Figure elements have alt tag & descriptive text
-> Added alt tag to "hero" class for main page img
-> "Website" title updated to "Horiseon.com" for clairification
-> Fixed broken link (SEO)
+1 IMG elements have accessible alt tag attributes & descriptive text
+2 Figure elements have alt tag & descriptive text
+3Added alt tag to "hero" class for main page img
+4 "Website" title updated to "Horiseon.com" for clairification
+5 Fixed broken link (SEO)
 
 *** Updated logical structure independent of styling and positioning ***
 > Reviewed CSS and grouped together duplicate styles across classes, including
