@@ -32,12 +32,12 @@ Changes made as of 14 Dec 2020
 ## Updated logical structure independent of styling and positioning
 
 * Reviewed CSS and grouped together duplicate styles across classes, including
- * .benefit-lead, .benefit-brand, .benefit-cost
- * .benefit-lead h3, .benefit-brand h3, .benefit-cost h3
- * .benefit-lead img, .benefit-brand img, .benefit-cost img
- * .search-engine-optimization, .online-reputation-management, .social-media-marketing
- * .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img
- * .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
+    * .benefit-lead, .benefit-brand, .benefit-cost
+    * .benefit-lead h3, .benefit-brand h3, .benefit-cost h3
+    * .benefit-lead img, .benefit-brand img, .benefit-cost img
+    * .search-engine-optimization, .online-reputation-management, .social-media-marketing
+    * .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img
+    * .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
 
 * Added comments before styling as a guide to 1) what was being styled and 2) how
 
