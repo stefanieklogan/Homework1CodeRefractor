@@ -1,7 +1,7 @@
 Homework 1: CodeRefractor
 
 ## Horiseon
-This webpage is the homepage for Horiseon Social Solutions Services. 
+This webpage is the homepage for Horiseon Social Solutions Services. Horiseon provides businesses with online solutions to increase audience size/reach and sales.
 
 
 Changes made as of 14 Dec 2020
