@@ -1,5 +1,10 @@
-# Read me file for Horeison.com & CodeRefractor homework 1
+Homework 1: CodeRefractor
 
+## Horiseon
+This webpage is the homepage for Horiseon Social Solutions Services. 
+
+
+Changes made as of 14 Dec 2020
 
 ## New semantic HTML elements
 
@@ -44,3 +49,9 @@ Html begins with head & title. Moves to body & header before opening up to h1 & 
 ## Additional edits
 
 Fixed .benefit-lead, .benefit-brand, .benefit-cost class bottom-margin to align with Social Media panel.
+
+Resized IMG files for faster load and better user experience.
+
+## Additional learnings
+
+How to format a desireable readme file. Just because it's organized on VSC doesn't mean jack to GitHub until you learn some style. I enjoyed it. And no, this comment would not appear in a profile setting/document.
