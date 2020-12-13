@@ -50,8 +50,8 @@
     * .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img
     * .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
 
-![Image of css file]
-(https://github.com/stefanieklogan/Homework1CodeRefractor/cssexample.png)
+![Imageofcssfile]
+(https://github.com/stefanieklogan/Homework1CodeRefractor/assets/images/cssexample.png)
 
 
 * Added comments before styling as a guide to 1) what was being styled and 2) how
