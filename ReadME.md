@@ -1,10 +1,10 @@
-Table of Contents
-1. [ Company Overview. ](#overview)
-2. [ New semantic HTML elements. ](#html)
-
-
+# Table of Contents
 <a name="Company Overview"></a>
-# Company overview
+<a name="New semantic HTML elements"></a>
+
+
+
+1. [ Company Overview. ](#overview)
 
 * Horiseon Social Solutions Services provides businesses with online solutions to increase audience size/reach and sales.
 
@@ -12,8 +12,7 @@ Table of Contents
 
 * Horiseon seeks to take the pressure and work of customer growth away from the business and put their practices into place. They are solution-driven with measureable results.
 
-<a name="New semantic HTML elements"></a>
-## New semantic HTML elements
+2. [ New semantic HTML elements. ](#html)
 
 * Replaced div with nav for header class content due to three page navigation links in header section
 
@@ -46,9 +45,6 @@ Table of Contents
     * .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
 
 * Added comments before styling as a guide to 1) what was being styled and 2) how
-
-
-## Heading attributes fall in sequential order
 
 * Html begins with head & title. Moves to body & header before opening up to h1 & h2 along with nav, sections and their content. The document closes with a footer tag and close of body & unclosed divs.
 
