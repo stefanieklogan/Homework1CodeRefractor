@@ -1,6 +1,11 @@
 # Table of Contents
 1. [ Company Overview. ](#overview)
 2. [ New semantic HTML elements. ](#html)
+3. [ New accessibility standards. ](#accessibility)
+4. [ Updated logical structure. ](#logic)
+5. [ Additional edits. ](#edits)
+6. [ Additional learnings. ](#learnings)
+7. [ The other stuff: License & Badges. ](#streetcred)
 
 
 <a name="overview"></a>
@@ -21,7 +26,7 @@
 
 * Replaced div with aside where .benefit-lead img, .benefit-brand img, .benefit-cost img was concerned
 
-
+<a name="accessibility"></a>
 ## New accessibility standards
 
 * IMG elements have accessible alt tag attributes & descriptive text
@@ -34,8 +39,8 @@
 
 * Fixed broken link (SEO)
 
-
-## Updated logical structure independent of styling and positioning
+<a name="logic"></a>
+## Updated logical structure
 
 * Reviewed CSS and grouped together duplicate styles across classes, including
     * .benefit-lead, .benefit-brand, .benefit-cost
@@ -49,17 +54,19 @@
 
 * Html begins with head & title. Moves to body & header before opening up to h1 & h2 along with nav, sections and their content. The document closes with a footer tag and close of body & unclosed divs.
 
-
+<a name="edits"></a>
 ## Additional edits
 
 * Fixed .benefit-lead, .benefit-brand, .benefit-cost class bottom-margin to align with Social Media panel.
 
 * Resized IMG files for faster load and better user experience.
 
+<a name="learnings"></a>
 ## Additional learnings
 
 * How to format a desireable readme file. Just because it's organized on VSC doesn't mean jack to GitHub until you learn some style. I enjoyed it. And no, this comment would not appear in a profile setting/document.
 
+<a name="streetcred"></a>
 ## The other stuff: License & Badges
 
 * Copyright © Nicolas Gallagher and Jonathan Neal, The MIT License (MIT)
