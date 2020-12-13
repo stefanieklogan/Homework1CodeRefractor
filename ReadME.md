@@ -1,3 +1,9 @@
+Table of Contents
+1. [ Company Overview. ](#overview)
+2. [ New semantic HTML elements. ](#html)
+
+
+<a name="Company Overview"></a>
 # Company overview
 
 * Horiseon Social Solutions Services provides businesses with online solutions to increase audience size/reach and sales.
@@ -6,9 +12,7 @@
 
 * Horiseon seeks to take the pressure and work of customer growth away from the business and put their practices into place. They are solution-driven with measureable results.
 
-
-# Horiseon.com code changes / 14 Dec 2020
-
+<a name="New semantic HTML elements"></a>
 ## New semantic HTML elements
 
 * Replaced div with nav for header class content due to three page navigation links in header section
