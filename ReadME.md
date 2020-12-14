@@ -53,7 +53,7 @@
     * .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
 
 ```md
-![Image of css file](./assets/images/cssexample.png)
+![Image of css file](https://github.com/stefanieklogan/Homework1CodeRefractor/blob/main/assets/images/cssexample.PNG?raw=true)
 ```
 
 * Added comments before styling as a guide to 1) what was being styled and 2) how
