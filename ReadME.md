@@ -1,6 +1,6 @@
 # Horeiseon.com
 
-# Table of Contents
+## Table of Contents
 1. [ Company Overview. ](#overview)
 2. [ New semantic HTML elements. ](#html)
 3. [ New accessibility standards. ](#accessibility)
