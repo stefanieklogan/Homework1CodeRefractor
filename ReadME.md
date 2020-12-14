@@ -1,4 +1,4 @@
-# Horeiseon.com
+# Horiseon.com
 
 ## Table of Contents
 1. [ Company Overview. ](#overview)
